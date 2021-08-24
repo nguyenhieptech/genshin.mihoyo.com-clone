@@ -1,0 +1,20 @@
+.home {
+  position: relative;
+  width: 100%;
+  height: 616.58px;
+}
+
+.home .text-banner {
+  position: absolute;
+  z-index: 10;
+  bottom: 81.5px;
+}
+
+.home .play-button {
+  position: absolute;
+  right: 94px;
+  bottom: 144.5px;
+  z-index: 8;
+  width: 74.52px;
+  height: 82.78px;
+}

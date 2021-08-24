@@ -1,0 +1,30 @@
+.character-info {
+  position: relative;
+  width: 100%;
+  height: 685.03px;
+}
+
+.character-info .title {
+  position: absolute;
+  z-index: 5;
+}
+
+.character-info .slider {
+  position: relative;
+  top: 30px;
+}
+
+.character-info .slider-item {
+  width: 100%;
+  height: 685.03px;
+
+  background-position: center;
+  background-repeat: no-repeat;
+  overflow: visible;
+}
+
+.character-info .image {
+}
+
+.character-info .stars {
+}
