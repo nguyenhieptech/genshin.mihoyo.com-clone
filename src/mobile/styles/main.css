@@ -1,0 +1,8 @@
+@import './components/landscape.css';
+@import './components/header.css';
+@import './content/content.css';
+@import './content/home.css';
+@import './content/character-info.css';
+@import './content/version-info.css';
+@import './content/game-features.css';
+@import './components/footer.css';
